@@ -1,0 +1,6 @@
+vit_type: "tiny"
+lr: 0.0001
+in_channels: 12
+n_classes: 43
+patch_size: 8
+img_size: 120

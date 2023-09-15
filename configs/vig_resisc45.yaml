@@ -1,0 +1,11 @@
+in_channels: 3
+out_channels: [128, 256, 512]
+heads: 16
+n_classes: 1
+input_resolution: [256, 256]
+reduce_factor: 2
+pyramid_reduction: 4
+act: "relu"
+k: 9
+overlapped_patch_emb: True
+wd: 0.0001
