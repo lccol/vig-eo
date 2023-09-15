@@ -1,0 +1,13 @@
+numpy==1.24.1
+matplotlib==3.6.3
+pandas==1.5.2
+rasterio==1.3.4
+torch==1.13.1
+torch-geometric==2.2.0
+torch-scatter==2.1.0
+torch-sparse==0.6.16
+torchvision==0.14.1
+torchaudio==0.13.1
+torchmetrics==0.11.0
+pytorch-lightning==1.8.6
+torchgeo==0.4.1
